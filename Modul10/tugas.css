@@ -1,0 +1,19 @@
+body {
+    background-image: url(1.jpg)
+}
+h2{
+    color: greenyellow;
+    font-family:high tower text;
+    background-color:none;
+    text-align:center
+}
+table{
+    background:transparent
+}
+.td {
+    font-weight:bold;
+}
+.dashed{
+    border-style:dashed;
+    border-color:pink;
+}
